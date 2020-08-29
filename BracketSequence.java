@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//delets the least number of brackets and returns a balanced bracket sequence
 import java.util.*;
 import java.io.*;
 import java.math.*;

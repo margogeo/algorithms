@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//finds the ancestor for every element on 2^0...log(n) level
 import java.util.*;
 import java.io.*;
 import java.lang.Math;

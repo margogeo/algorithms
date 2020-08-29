@@ -1,3 +1,6 @@
+//author Margarita Shimanskaia
+//finds whether sorting array with stack operations is possible or not
+//and gives a combination of operations if possible
 import java.util.*;
 import java.io.*;
 import java.lang.Math;

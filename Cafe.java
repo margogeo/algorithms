@@ -1,3 +1,6 @@
+//author Margarita Shimanskaia
+//finds the best way to spend cafe tickets and use the discount 
+//using dynamic programming
 import java.util.*;
 import java.io.*;
 import java.math.*;

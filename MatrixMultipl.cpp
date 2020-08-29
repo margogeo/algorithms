@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//effectively multiplies a lot of 2x2 matrices by request
 #include <iostream>
 #include <stdio.h>
 #include <fstream>

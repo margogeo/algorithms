@@ -1,3 +1,7 @@
+//author Margarita Shimanskaia
+//builds a balanced binary tree and implements 
+//                                  1. add(i) - adding an element with key i; 
+//                                  2. sum(l, r) - returns sum of tree elements from [l; r]
 #include <string>
 #include <iostream>
  

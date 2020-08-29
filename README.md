@@ -1,2 +1,0 @@
-# algorithms
-university contests

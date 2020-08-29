@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//builds a sparse table and returns min on a segment between two elements
 #include <iostream>
 #include <algorithm>
 #include <math.h> 

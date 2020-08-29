@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//finds the Levenshtein distance for two strings
 import java.util.*;
 import java.io.*;
  

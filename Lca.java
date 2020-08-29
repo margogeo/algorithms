@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//finds the lowest common ancestor for two elements
 import java.util.*;
 import java.io.*;
 import java.lang.Math;

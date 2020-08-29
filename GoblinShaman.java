@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//implements queue with adding new element after any index in queue
 import java.lang.*;
 import java.util.*;
 import java.io.*;

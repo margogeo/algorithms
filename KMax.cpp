@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//builds a tree, adds and delets items and returns max number k in the tree by request
 #include <string>
 #include <iostream>
  

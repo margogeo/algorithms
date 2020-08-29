@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//builds a standart binary tree
 import java.util.*;
 import java.io.*;
  

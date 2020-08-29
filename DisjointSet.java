@@ -1,3 +1,5 @@
+//author Margarita Shimanskaia
+//implements disjoint set with minimum and maximum key for each set
 import java.util.*;
 import java.io.*;
 import java.lang.Math;

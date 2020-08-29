@@ -1,3 +1,6 @@
+//author Margarita Shimanskaia
+//builds a binary tree with implicit key 
+//implements adding(i, x) and deleting(i) items after element number i in the tree
 #include <string>
 #include <iostream>
  
